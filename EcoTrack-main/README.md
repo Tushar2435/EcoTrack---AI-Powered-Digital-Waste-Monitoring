@@ -4,7 +4,7 @@
         <img src="public/logo-full.png" alt="EcoTrack">
       </a>
   <br />
-  <h1 align="center">AI-Powered Waste Management Platform</h1>
+  <h1 align="center">AI-Powered Digital Waste Monitoring</h1>
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
